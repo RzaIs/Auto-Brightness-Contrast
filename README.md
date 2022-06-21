@@ -48,7 +48,7 @@ If there is no *__cmd line input__*, the corresponding error message will be dis
 
 <img src="imgs/farm.jpg" width=400> <img src="imgs/newfarm.jpg" width=400> 
 
-## Logarithmic brightness Transformation
+## Logarithmic Brightness Transformation
 
 The main idea of this project was to create the automatic adjusting brightness and contrast program. The program takes a BMP image as an input, do image manipulations on it and based on the user will, either writes it to standard output or creates a new processed image. While shifting the brightness of image in order to do it naturally a logarithmic formula has been used.
 
