@@ -38,7 +38,7 @@ If the *__flag input__* is not a valid one, the corresponding error message will
 
 If there is no *__cmd line input__*, the corresponding error message will be displayed on the console.
 
-<img src="imgs/illegalOption.jpeg">
+<img src="imgs/emptyArgs.jpeg">
 
 ## Example Image Results
 
