@@ -52,7 +52,7 @@ If there is no *__cmd line input__*, the corresponding error message will be dis
 
 The main idea of this project was to create the automatic adjusting brightness and contrast program. The program takes a BMP image as an input, do image manipulations on it and based on the user will, either writes it to standard output or creates a new processed image. While shifting the brightness of image in order to do it naturally a logarithmic formula has been used.
 
-`newValue = oldValue - (minValue + ln(1 + oldValue - minValue)`
+`newValue = oldValue - (minValue + ln(1 + oldValue - minValue))`
 
 as an example for a min value of 50 the graph of subtracted value
 
