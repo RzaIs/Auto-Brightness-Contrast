@@ -21,8 +21,9 @@ In order to run the program properly, the user starts a terminal section at the 
 There are several commands line that are being provided to the user.
 
 1.  Help Command ( -h ) `./autoadjust -h` : a help information for the user to run the program properly
-2. Taking image name as cmd line arg `./autoadjust image.bmp` : user should enter a bmp image as input. The processed image will be written to the stdout by default. The new processed image can be written to new empty image file via: `./autoadjustimage.bmp > image2.bmp`
-3. Output File Option (-o filename) `./autoadjust image.bmp -o image2.bmp`: program will read the `image.bmp` and after processing it the result will be written in `image2.bmp`
+2. Taking image name as cmd line arg `./autoadjust image.bmp` : user should enter a bmp image as input. The processed image will be written to the stdout by default. The new processed image can be written to new empty image file via: 
+  `./autoadjustimage.bmp > image2.bmp`
+4. Output File Option (-o filename) `./autoadjust image.bmp -o image2.bmp`: program will read the `image.bmp` and after processing it the result will be written in `image2.bmp`
 
 ## Error Handling
 
