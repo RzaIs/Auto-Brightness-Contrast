@@ -30,7 +30,7 @@ If the *__input file__* doesn’t exist, the corresponding error message will be
 
 If the *__input file__* is not a BMP format, the corresponding error message will be displayed on the console.
 
-<img src="imgs/emptyArgs.jpeg">
+<img src="imgs/NotBMPimage.jpeg">
 
 If the *__flag input__* is not a valid one, the corresponding error message will be displayed on the console.
 
